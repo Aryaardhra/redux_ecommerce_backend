@@ -1,4 +1,4 @@
-import ProductModel from "../models/ProductModel.js";
+import ProductModel from "../models/productModel.js";
 import ReviewModel from "../models/reviewsModel.js";
 
 

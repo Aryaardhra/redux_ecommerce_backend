@@ -3,7 +3,7 @@
 import userModel from "../models/userModel.js";
 import OrderModel from "../models/orderModel.js";
 import ReviewModel from "../models/reviewsModel.js";
-import ProductModel from "../models/ProductModel.js";
+import ProductModel from "../models/productModel.js";
 
 const userStatusByEmail = async(req, res) => {
     const { email } = req.params;
